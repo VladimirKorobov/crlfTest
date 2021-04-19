@@ -1,3 +1,5 @@
 This is my file
 Containing several lines
 Separated by line endings.
+New Line 1
+
