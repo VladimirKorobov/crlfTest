@@ -1,3 +1,3 @@
 testFile.txt text eol=crlf
 #testFile1.txt text eol=crlf
-new/myFile2.txt
+new/myFile2.txt text eol=crlf
